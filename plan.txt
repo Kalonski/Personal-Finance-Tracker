@@ -1,0 +1,6 @@
+main.py - running
+interface.py - displaying the UI
+csv reader - convert csv data to objects
+income.csv
+outgoing.csv
+filter.py
