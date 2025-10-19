@@ -1,14 +1,20 @@
 Amount,Year,Month,Day,Time,Source,Category
-12,2010,1,12,10:30,Food,Bills
-12,2011,2,14,11:30,Food,Bills
-12,2012,3,5,12:30,Food,Bills
-12,2013,4,1,13:30,Food,Bills
+12,2010,1,12,10:30,Morrisons,Bills
+12,2011,2,14,11:30,Morrisons,Bills
+12,2012,3,5,12:30,Morrisons,Bills
+12,2013,4,1,13:30,Morrisons,Bills
 380,2014,5,1,14:30,Rent,Bills
-12,2015,6,23,15:30,Food,Bills
-12,2016,7,23,16:30,Food,Bills
+12,2015,6,23,15:30,Morrisons,Bills
+12,2016,7,23,16:30,Morrisons,Bills
 400,2017,8,23,17:30,Rent,Bills
-12,2018,9,30,18:30,Food,Bills
-12,2019,10,21,19:30,Food,Bills
-12,2020,11,11,20:30,Food,Bills
-12,2021,12,10,21:30,Food,Bills
-12,2022,1,2,22:30,Food,Bills
+12,2018,9,30,18:30,Morrisons,Bills
+12,2019,10,21,19:30,Morrisons,Bills
+12,2020,11,11,20:30,Morrisons,Bills
+12,2021,12,10,21:30,Morrisons,Bills
+12,2022,1,2,22:30,Morrisons,Bills
+5,2025,10,10,12:00,Urban Junge,Insurance
+13.85,2025,10,9,12:00,Morrisons,Food
+29.75,2025,10,7,12:00,Trainline,Subscription
+8,2025,10,7,15:00,Climb Newcastle,Sport
+5.35,2025,10,3,16:00,Cumberland Arms,Drinks
+5.8,2025,10,1,17:00,Spot White,Drinks
