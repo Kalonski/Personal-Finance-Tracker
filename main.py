@@ -59,6 +59,10 @@ while True: #I want to wake up, in a city that never sleeps
                 print(incomeFrame.merge_df([incomeFrame.filter_by_amount(amount), incomeFrame.filter_by_year(year), incomeFrame.filter_by_month(month),
                                             incomeFrame.filter_by_day(day), incomeFrame.filter_by_time(time), incomeFrame.filter_by_source(source),
                                             incomeFrame.filter_by_category(category)]))
+            elif frame.lower() == "outcome" or frame.lower() == "o":
+                print(outgoingsFrame.merge_df([outgoingsFrame.filter_by_amount(amount), outgoingsFrame.filter_by_year(year), outgoingsFrame.filter_by_month(month),
+                                            outgoingsFrame.filter_by_day(day), outgoingsFrame.filter_by_time(time), outgoingsFrame.filter_by_source(source),
+                                            outgoingsFrame.filter_by_category(category)]))
 
 
 
